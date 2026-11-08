@@ -137,10 +137,10 @@ An AI-powered decision-support concept for disaster risk assessment and emergenc
 ## 🏆 Competitive Programming
 
 <p align="center">
-  <a href="https://codeforces.com/">
+  <a href="https://codeforces.com/profile/pranav_iiit">
     <img src="https://img.shields.io/badge/Codeforces-Competitive%20Programming-blue?style=for-the-badge&logo=codeforces" />
   </a>
-  <a href="https://www.codechef.com/">
+  <a href="https://www.codechef.com/users/mob_halo_93">
     <img src="https://img.shields.io/badge/CodeChef-Problem%20Solving-brown?style=for-the-badge&logo=codechef" />
   </a>
 </p>
@@ -157,13 +157,13 @@ An AI-powered decision-support concept for disaster risk assessment and emergenc
   <a href="https://github.com/MrNobody0904">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/">
+  <a href="https://www.linkedin.com/in/pranav-raj-5a1080318/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://codeforces.com/">
+  <a href="https://codeforces.com/profile/pranav_iiit">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
   </a>
-  <a href="https://www.codechef.com/">
+  <a href="https://www.codechef.com/users/mob_halo_93">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
   </a>
 </p>
